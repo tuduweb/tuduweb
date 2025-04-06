@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm onebinary  🔊
+### Hi there, 👋 I'm tuduweb  🔊
 
 ![](https://github-readme-stats.vercel.app/api?username=tuduweb)
 
